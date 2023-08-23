@@ -1,1 +1,1 @@
-This repository will be devoted to my first steps learning html. Here, I am going to create a small websites where you can find different recipes that you can then use to cook whatever you want. As a feature, this website will be made up of different pages that are connected via relative links. I hope it turns out to be a little pretty as well.
+ This project will later be improved lookswise using CSS tools.
